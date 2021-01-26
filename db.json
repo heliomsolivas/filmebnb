@@ -1,0 +1,36 @@
+{
+    "popularMovies": [
+        {
+            "id": 0,
+            "name": "Soul",
+            "thumb": "https://media.fstatic.com/3lGWmvgHKOAXw8dK7h0BPk4Lce0=/268x386/smart/media/movies/covers/2020/10/soul.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Euphoria",
+            "thumb": "https://media.fstatic.com/RfJ9n8KbOBC81OVTfQ9yDR9qNmo=/268x386/smart/media/movies/covers/2020/12/EoqQOM1XcAA8D-s.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Belo Vigança",
+            "thumb": "https://media.fstatic.com/dAVrKHHRPnlIVv_RTbHQ1sWbZkY=/268x386/smart/media/movies/covers/2020/10/promising-young-woman.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Lupin",
+            "thumb": "https://media.fstatic.com/gCzuaOtbrPUg6Cd3_8QSawRG2gc=/268x386/smart/media/movies/covers/2020/12/lupin-2.jpg"
+        },
+        {
+            "id": 4,
+            "name": "O Tigre branco",
+            "thumb": "https://media.fstatic.com/JADFuGctKfhYkE4JiUgiocrpwPQ=/268x386/smart/media/movies/covers/2021/01/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQX_NO6a7DZ.jpg"
+        }
+    ],
+    "debutMovies": [
+        {
+            "id": 0,
+            "name": "A Bruxa da Casa ao lado",
+            "thumb": "https://media.fstatic.com/X9Uia8z72myepXIreWVMdvtbIak=/268x386/smart/media/movies/covers/2020/03/wretched_ver2.jpg"
+        }
+    ]
+}

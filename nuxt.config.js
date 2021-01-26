@@ -14,8 +14,12 @@ export default {
       { hid: 'description', name: 'description', content: '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {
+        rel: "stylesheet",
+        href: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap",
+      },
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
