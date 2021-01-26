@@ -20,6 +20,6 @@ $ npm run generate
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 
-# Server JSON
+# Server JSON - Utilize para desenvolvimento do front
 
 ## json-server --watch db.json --port 4000
