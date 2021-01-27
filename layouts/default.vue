@@ -1,10 +1,15 @@
 <template>
   <div>
-    <Nuxt />
+    <Header></Header>
+    <Nav></Nav>
+    <nuxt />
   </div>
 </template>
 
 <style>
+*{
+  box-sizing: border-box;
+}
 html {
   font-family:
     'Source Sans Pro',

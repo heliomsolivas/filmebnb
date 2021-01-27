@@ -17,9 +17,14 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       {
         rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap",
+        href: "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;0,600;0,700;1,400&display=swap",
       },
     ],
+  },
+
+  loading: {
+    color: 'blue',
+    height: '5px'
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css

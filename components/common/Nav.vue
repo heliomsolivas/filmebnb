@@ -1,15 +1,15 @@
 <template>
-  <nav class="bg-gray-600 mb-4">
-    <div class="container">
-      <NuxtLink to="/home">Inicio</NuxtLink>
-      <NuxtLink to="/movies">Filmes</NuxtLink>
-      <NuxtLink to="/series">Séries</NuxtLink>
-      <NuxtLink to="/tv">TV</NuxtLink>
-      <NuxtLink to="/listas">Listas</NuxtLink>
-      <NuxtLink to="/artistas">Artistas</NuxtLink>
-      <NuxtLink to="/users">Usuários</NuxtLink>
-      <NuxtLink to="/news">Notícias</NuxtLink>
-      <NuxtLink to="/groups">Grupos</NuxtLink>
+  <nav class="bg-blue-500">
+    <div class="container text-white">
+      <NuxtLink class="font-normal" to="/home">Inicio</NuxtLink>
+      <NuxtLink class="font-normal" to="/movies">Filmes</NuxtLink>
+      <NuxtLink class="font-normal" to="/series">Séries</NuxtLink>
+      <NuxtLink class="font-normal" to="/tv">TV</NuxtLink>
+      <NuxtLink class="font-normal" to="/listas">Listas</NuxtLink>
+      <NuxtLink class="font-normal" to="/artistas">Artistas</NuxtLink>
+      <NuxtLink class="font-normal" to="/users">Usuários</NuxtLink>
+      <NuxtLink class="font-normal" to="/news">Notícias</NuxtLink>
+      <NuxtLink class="font-normal" to="/groups">Grupos</NuxtLink>
     </div>
   </nav>
 </template>
@@ -24,7 +24,7 @@ export default {
 
 <style scoped>
 nav {
-  height: 45px;
+  height: 60px;
   display: flex;
   align-items: center;
 }

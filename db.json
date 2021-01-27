@@ -1,4 +1,78 @@
 {
+    "movies": [
+        {
+            "id": 0,
+            "name": "Soul",
+            "originalTitle": "Soul 2",
+            "releaseDate": 2021,
+            "director": "Hélio",
+            "average": 4.6,
+            "votes": 350,
+            "description": "Em sua primeira sessão de terapia, Jules reflete sua vida, os eventos do ano passado, seu relacionamento com Rue e o que o futuro lhe reserva.",
+            "releaseDateBrasil": "24 de Janeiro de 2021",
+            "casting": {
+                "actors": [
+                    {
+                        "name": "Hélio Marcondes",
+                        "character": "Thor",
+                        "photo": "https://media.fstatic.com/hqwnvcxDZCZ6ltYRZgrRghC-7vU=/60x60/smart/media/artists/avatar/2018/05/jacob-elordi_a525960.jpg"
+                    },
+                    {
+                        "name": "Welynton",
+                        "character": "Kekel MC",
+                        "photo": "https://media.fstatic.com/hqwnvcxDZCZ6ltYRZgrRghC-7vU=/60x60/smart/media/artists/avatar/2018/05/jacob-elordi_a525960.jpg"
+                    }
+                ]
+            },
+            "thumb": "https://media.fstatic.com/3lGWmvgHKOAXw8dK7h0BPk4Lce0=/268x386/smart/media/movies/covers/2020/10/soul.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Euphoria",
+            "originalTitle": "Soul 2",
+            "releaseDate": 2021,
+            "director": "Hélio",
+            "average": 4.6,
+            "votes": 350,
+            "description": "Em sua primeira sessão de terapia, Jules reflete sua vida, os eventos do ano passado, seu relacionamento com Rue e o que o futuro lhe reserva.",
+            "releaseDateBrasil": "24 de Janeiro de 2021",
+            "casting": {
+                "actors": [
+                    {
+                        "name": "Hélio Marcondes",
+                        "character": "Thor",
+                        "photo": "https://media.fstatic.com/hqwnvcxDZCZ6ltYRZgrRghC-7vU=/60x60/smart/media/artists/avatar/2018/05/jacob-elordi_a525960.jpg"
+                    },
+                    {
+                        "name": "Welynton",
+                        "character": "Kekel MC",
+                        "photo": "https://media.fstatic.com/hqwnvcxDZCZ6ltYRZgrRghC-7vU=/60x60/smart/media/artists/avatar/2018/05/jacob-elordi_a525960.jpg"
+                    }
+                ]
+            },
+            "thumb": "https://media.fstatic.com/RfJ9n8KbOBC81OVTfQ9yDR9qNmo=/268x386/smart/media/movies/covers/2020/12/EoqQOM1XcAA8D-s.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Belo Vigança",
+            "thumb": "https://media.fstatic.com/dAVrKHHRPnlIVv_RTbHQ1sWbZkY=/268x386/smart/media/movies/covers/2020/10/promising-young-woman.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Lupin",
+            "thumb": "https://media.fstatic.com/gCzuaOtbrPUg6Cd3_8QSawRG2gc=/268x386/smart/media/movies/covers/2020/12/lupin-2.jpg"
+        },
+        {
+            "id": 4,
+            "name": "O Tigre branco",
+            "thumb": "https://media.fstatic.com/JADFuGctKfhYkE4JiUgiocrpwPQ=/268x386/smart/media/movies/covers/2021/01/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQX_NO6a7DZ.jpg"
+        },
+        {
+            "id": 5,
+            "name": "O Tigre branco",
+            "thumb": "https://media.fstatic.com/JADFuGctKfhYkE4JiUgiocrpwPQ=/268x386/smart/media/movies/covers/2021/01/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQX_NO6a7DZ.jpg"
+        }
+    ],
     "popularMovies": [
         {
             "id": 0,
@@ -24,11 +98,41 @@
             "id": 4,
             "name": "O Tigre branco",
             "thumb": "https://media.fstatic.com/JADFuGctKfhYkE4JiUgiocrpwPQ=/268x386/smart/media/movies/covers/2021/01/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQX_NO6a7DZ.jpg"
+        },
+        {
+            "id": 5,
+            "name": "O Tigre branco",
+            "thumb": "https://media.fstatic.com/JADFuGctKfhYkE4JiUgiocrpwPQ=/268x386/smart/media/movies/covers/2021/01/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQX_NO6a7DZ.jpg"
         }
     ],
     "debutMovies": [
         {
             "id": 0,
+            "name": "A Bruxa da Casa ao lado",
+            "thumb": "https://media.fstatic.com/X9Uia8z72myepXIreWVMdvtbIak=/268x386/smart/media/movies/covers/2020/03/wretched_ver2.jpg"
+        },
+        {
+            "id": 1,
+            "name": "A Bruxa da Casa ao lado",
+            "thumb": "https://media.fstatic.com/X9Uia8z72myepXIreWVMdvtbIak=/268x386/smart/media/movies/covers/2020/03/wretched_ver2.jpg"
+        },
+        {
+            "id": 2,
+            "name": "A Bruxa da Casa ao lado",
+            "thumb": "https://media.fstatic.com/X9Uia8z72myepXIreWVMdvtbIak=/268x386/smart/media/movies/covers/2020/03/wretched_ver2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "A Bruxa da Casa ao lado",
+            "thumb": "https://media.fstatic.com/X9Uia8z72myepXIreWVMdvtbIak=/268x386/smart/media/movies/covers/2020/03/wretched_ver2.jpg"
+        },
+        {
+            "id": 4,
+            "name": "A Bruxa da Casa ao lado",
+            "thumb": "https://media.fstatic.com/X9Uia8z72myepXIreWVMdvtbIak=/268x386/smart/media/movies/covers/2020/03/wretched_ver2.jpg"
+        },
+        {
+            "id": 5,
             "name": "A Bruxa da Casa ao lado",
             "thumb": "https://media.fstatic.com/X9Uia8z72myepXIreWVMdvtbIak=/268x386/smart/media/movies/covers/2020/03/wretched_ver2.jpg"
         }

@@ -1,7 +1,5 @@
 <template>
   <div>
-    <Header></Header>
-    <Nav></Nav>
     <div class="container">
       <div>
         <h2 class="text-3xl mb-4">TV</h2>

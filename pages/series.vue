@@ -1,7 +1,5 @@
 <template>
   <div>
-    <Header></Header>
-    <Nav></Nav>
     <div class="container">
       <div>
         <h2 class="text-3xl mb-4">Séries</h2>
@@ -17,13 +15,7 @@
 </template>
 
 <script>
-import Header from "~/components/common/Header.vue";
-import Nav from "~/components/common/Nav.vue";
 export default {
-  components: {
-    Header,
-    Nav
-  },
   data() {
     return {
       movies: [
